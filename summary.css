@@ -1,0 +1,27 @@
+#global {
+    background: url(/nasa-Q1p7bh3SHj8-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1400px;
+    background-attachment: fixed;
+}
+
+#global .dark-overlay {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 1400px;
+    background-color: rgba(2, 0, 0, 0.5);
+}
+
+#global .container {
+    padding-top: 100px;
+    font-family: "Open Sans", sans-serif;
+    font-family: "Black Han Sans", sans-serif;
+    font-family: "Julius Sans One", sans-serif;
+}
+
+#global {
+    font-size: 30px;
+}
