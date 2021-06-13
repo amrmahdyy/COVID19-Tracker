@@ -1,36 +1,26 @@
 #homeSection .home-inner {
-    padding-top: 120px;
-    font-family: "Open Sans", sans-serif;
-    font-family: "Black Han Sans", sans-serif;
-    font-family: "Julius Sans One", sans-serif;
+  padding-top: 120px;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Black Han Sans", sans-serif;
+  font-family: "Julius Sans One", sans-serif;
 }
 
 #homeSection .dark-overlay {
-    background-color: rgba(0, 0, 0, 0.5);
-    top: 0;
-    left: 0;
-    width: 100%;
-    min-height: 1200px;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 1200px;
 }
 
 #homeSection {
-    background: url(/nasa-Q1p7bh3SHj8-unsplash.jpg);
-    min-height: 1200px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
-.body {
-    /* background: url("https://media.istockphoto.com/photos/corona-virus-in-red-background-microbiology-and-virology-concept-3d-picture-id1203426591?k=6&m=1203426591&s=612x612&w=0&h=JxRZ9b0qvMLjp7v2gERd5_e6yI20p9R5VLV_PvnfaTQ="); */
-    /* background: url(/img/dark-red-grungy-texture-background.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-    min-height: 700%;
-    background-attachment: fixed; */
+  background: url("nasa.jpg");
+  min-height: 1200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .numbersSize {
-    font-size: 30px;
+  font-size: 30px;
 }
